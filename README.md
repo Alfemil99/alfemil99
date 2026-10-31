@@ -71,5 +71,5 @@ Alongside my studies, I'm building independent software products under **Alfemil
 <div align="center">
   <sub>Ideas → architecture → experiments → working software.</sub>
   <br />
-  <sub>© Alfemil · Built with curiosity.</sub>
+  <sub>© Alfemil·</sub>
 </div>
