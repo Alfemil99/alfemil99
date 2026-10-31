@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Alfemil99/alfemil99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Alf
 
-Here are some ideas to get you started:
+### Machine Learning & Data Science Student
+Building AI-powered systems, developer tools, and independent software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+- 🎓 Studying Machine Learning & Data Science at the University of Copenhagen
+- 🤖 Interested in agentic AI, automation, and applied machine learning
+- 🛠️ Building web platforms and dev infrastructure
+- 🇩🇰 Based in Denmark
+
+## What I'm building
+- **Erebo** — A platform for games, tools, and creative software
+- **Bathos** — File transfer infrastructure for humans and AI agents
+- **Polypo** — Multiplayer infrastructure for web games
+- **Lorb** — An experimental AI-powered virtual character
+
+## Tech & Tools
+Python · TypeScript · Next.js · React · Supabase · Cloudflare · PyTorch · Git
+
+## Find me
+
+🌐 [Personal Website](https://www.alfemil.com)
+
+🎮 [Erebo](https://erebo.si)
+
+📦 [Bathos](https://bathos.si)
+
