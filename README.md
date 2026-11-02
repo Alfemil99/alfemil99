@@ -9,7 +9,7 @@
 
 <br />
 
-**Building intelligent systems and independent software.**
+**Building systems and software.**
 
 <br />
 
@@ -69,7 +69,5 @@ Alongside my studies, I'm building independent software products under **Alfemil
 <br />
 
 <div align="center">
-  <sub>Ideas → architecture → experiments → working software.</sub>
-  <br />
-  <sub>© Alfemil·</sub>
+  <sub>© Alfemil</sub>
 </div>
